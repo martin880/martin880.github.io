@@ -95,7 +95,7 @@ p {
 
 #header .header {
     min-height: 8vh;
-    background-color: rgb(39, 53, 245);
+    background-color:rgba(31, 30, 30);
     transition: .3s ease background-color;
 }
 
@@ -446,7 +446,6 @@ p {
     height: 300px;
     overflow: hidden;
     position: relative;
-    cursor: pointer;
 }
 
 #projects .project-img:after {
